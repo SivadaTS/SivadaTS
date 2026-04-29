@@ -5,9 +5,11 @@
 ---
 
 ### 🔭 I’m currently working on
-- 📊 **Exploratory Data Analysis (EDA):** Developing a comprehensive analysis of global climate trends using Python.
-- 🤖 **Machine Learning:** Building a predictive model for student performance using Scikit-Learn.
-- 📱 **Learning:** Integrating AI models into mobile applications.
+-🧬 *Bioinformatics:* Developing a Python-based sequence analyzer to identify patterns in genomic data using Machine Learning.
+- 🧠 *Deep Learning:* Implementing Neural Networks from scratch to understand backpropagation and activation functions.
+- 🧪 *Predictive Modeling:* Using  *Python* to build comparative models.
+- 💾 *Advanced SQL:* Designing optimized relational databases and performing complex data analysis.
+- 🤖 *Machine Learning:* Refining classification and regression techniques using Scikit-Learn.
 
 ### 🛠️ My Tech Stack
 - **Languages:** Python (Primary), SQL, C++, Java, R
